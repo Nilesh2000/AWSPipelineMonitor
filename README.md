@@ -21,7 +21,7 @@ A Python script to monitor AWS CodePipeline deployments and display pipeline inf
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/aws_pipeline_monitor.git
-cd aws_pipeline_monitor
+cd AWSPipelineMonitor
 ```
 
 2. Create and activate a virtual environment:
